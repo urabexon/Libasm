@@ -1,8 +1,7 @@
 # Libasm 🤖
 
 This project is one of the advanced assignments in the 42Cursus.<br>
-The goal is to reimplement a subset of standard C library functions in **x86-64 Assembly**,<br>
-and to gain hands-on experience with low-level programming and the basics of assembly.
+The goal is to reimplement a subset of standard C library functions in **x86-64 Assembly**,and to gain hands-on experience with low-level programming and the basics of assembly.
 
 ## Usage 💻
 
