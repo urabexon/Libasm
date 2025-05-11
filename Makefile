@@ -6,7 +6,7 @@
 #    By: urabex <urabex@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/05/11 18:45:03 by urabex            #+#    #+#              #
-#    Updated: 2025/05/11 19:47:52 by urabex           ###   ########.fr        #
+#    Updated: 2025/05/11 21:56:56 by urabex           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -35,7 +35,7 @@ clean:
 	$(RM) $(OBJS_DIR)
 
 fclean:
-	$(RM) $(NAME)
+	$(RM) $(OBJS_DIR) $(NAME) a.out
 
 re: fclean all
 
